@@ -7,9 +7,11 @@ This is a randomzed password generator which will ask the user to select the len
 
 ## Visuals
 
+![](https://github.com/CleanupS20/password-generator/blob/main/assets/Images/Website-Screenshot.gif)
 
 ## Site
-https://github.com/CleanupS20/password-generator
+
+https://cleanups20.github.io/password-generator/
 
 ## Installation
 
